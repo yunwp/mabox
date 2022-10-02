@@ -19,7 +19,7 @@
 - 64编码地址：https://base64.us/
 
 Replit免费搭建的站点 只能自用，人多就会爆表。  
-
+搭建教程：http://www.yunwp.cn/s/3YUp
 ------
 ### 开源仓库
 https://github.com/  
