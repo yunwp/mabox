@@ -6,12 +6,14 @@
 - 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 
-### 版本
-mabox1.0.4
-自用版本
+### 接口寻找地址
+https://agit.ai
+
+http://5.nxog.top
 
 下载地址 | 使用设置 
-http://www.yunwp.cn/s/x6hQ|自用、如需下载
+http://www.yunwp.cn/s/x6hQ|
+自用、如需下载
 请联系我，勿外传
 
 
