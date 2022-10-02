@@ -1,5 +1,3 @@
-###Mabox
-
 ### TVBox 开源版
 - TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
 - 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。  
@@ -14,15 +12,15 @@
 - https://gitcode.net/
 - 开源仓库也可以找接口地址
 ### 版本Mabox
-创建时间2020.10.1
-下载地址 | 使用设置 
+- 创建时间2020.10.1
+- 下载地址 | 使用设置 
 - http://www.yunwp.cn/s/x6hQ
 - 自用、如需下载
 - 请联系我，勿外传
 - 64编码地址：https://base64.us/
 
-Replit免费搭建的站点 只能自用，人多就会爆表。  
-搭建教程：http://www.yunwp.cn/s/3YUp
+- Replit免费搭建的站点 只能自用，人多就会爆表。  
+- 搭建教程：http://www.yunwp.cn/s/3YUp
 ------
 ### 开源仓库
 https://github.com/  
