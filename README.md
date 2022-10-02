@@ -7,19 +7,16 @@
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 
 ### 接口寻找地址
-https://agit.ai
-
-http://5.nxog.top
-
-https://gitcode.net/
-
+- https://agit.ai
+- http://5.nxog.top
+- https://gitcode.net/
+- 开源仓库也可以找接口地址
 ### 版本Mabox
 下载地址 | 使用设置 
-
-http://www.yunwp.cn/s/x6hQ
-自用、如需下载
-请联系我，勿外传
-
+- http://www.yunwp.cn/s/x6hQ
+- 自用、如需下载
+- 请联系我，勿外传
+- 64编码地址：https://base64.us/
 
 Replit免费搭建的站点 只能自用，人多就会爆表。  
 
